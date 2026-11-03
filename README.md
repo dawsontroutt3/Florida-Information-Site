@@ -1,5 +1,3 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
-# WESTERN GOVERNORS UNIVERSITY 
-## D277 – FRONT-END WEB DEVELOPMENT
-Welcome to Front-End Web Development! 
-For specific task instructions and requirements for this assessment, please refer to the course page.
+*This was a project done originally for a WGU course*
+This is an informative site on Florida and a few of its cities. There is a home page with a navigation to the other pages, which are 3 more pages covering specific cities, as well as one final page that has a web form submission.
+This project was a practice of web development, using HTML and CSS.
